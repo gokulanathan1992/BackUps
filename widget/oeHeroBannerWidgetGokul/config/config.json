@@ -1,0 +1,390 @@
+{
+    "widgetDescriptionName": "oeHeroBannerGokul",
+    "properties": [{
+            "id": "timeSwitchImage",
+            "type": "stringType",
+            "name": "timeSwitchImage",
+            "helpTextResourceId": "tsiHelpText",
+            "labelResourceId": "tsiLabel",
+            "defaultValue": "4",
+            "required": true,
+            "maxLength": 2
+        },
+        {
+            "id": "boolLoopCarousel",
+            "type": "booleanType",
+            "name": "boolLoopCarousel",
+            "helpTextResourceId": "blcHelpText",
+            "labelResourceId": "blcLabel",
+            "defaultValue": false
+        },
+        {
+            "id": "boolAutoplayCarousel",
+            "type": "booleanType",
+            "name": "boolAutoplayCarousel",
+            "helpTextResourceId": "bacHelpText",
+            "labelResourceId": "bacLabel",
+            "defaultValue": true
+        },
+
+
+
+        {
+            "id": "imageTitle1",
+            "type": "sectionTitleType",
+            "helpTextResourceId": "it1HelpText",
+            "labelResourceId": "it1Label"
+        },
+        {
+            "id": "imageURL1",
+            "type": "mediaType",
+            "name": "imageURL1",
+            "helpTextResourceId": "i1HelpText",
+            "labelResourceId": "i1Label",
+            "required": false
+        },
+        {
+            "id": "mobileImageURL1",
+            "type": "mediaType",
+            "name": "mobileImageURL1",
+            "helpTextResourceId": "mi1HelpText",
+            "labelResourceId": "mi1Label",
+            "required": false
+        },
+        {
+            "id": "bannerLink1",
+            "type": "stringType",
+            "name": "bannerLink1",
+            "helpTextResourceId": "bl1HelpText",
+            "labelResourceId": "bl1Label",
+            "required": false
+        },
+        {
+            "id": "startDate1",
+            "type": "stringType",
+            "name": "startDate1",
+            "helpTextResourceId": "sd1HelpText",
+            "labelResourceId": "sd1Label",
+            "defaultValue": "",
+            "required": false
+        },
+        {
+            "id": "endDate1",
+            "type": "stringType",
+            "name": "endDate1",
+            "helpTextResourceId": "ed1HelpText",
+            "labelResourceId": "ed1Label",
+            "defaultValue": "",
+            "required": false
+        },
+        {
+            "id": "bannerText1",
+            "type": "stringType",
+            "name": "bannerText1",
+            "helpTextResourceId": "bt1HelpText",
+            "labelResourceId": "bt1Label",
+            "defaultValue": "",
+            "required": false
+        },
+
+
+
+        {
+            "id": "imageTitle2",
+            "type": "sectionTitleType",
+            "helpTextResourceId": "it2HelpText",
+            "labelResourceId": "it2Label"
+        },
+        {
+            "id": "imageURL2",
+            "type": "mediaType",
+            "name": "imageURL2",
+            "helpTextResourceId": "i2HelpText",
+            "labelResourceId": "i2Label",
+            "required": false
+        },
+        {
+            "id": "mobileImageURL2",
+            "type": "mediaType",
+            "name": "mobileImageURL2",
+            "helpTextResourceId": "mi2HelpText",
+            "labelResourceId": "mi2Label",
+            "required": false
+        },
+        {
+            "id": "bannerLink2",
+            "type": "stringType",
+            "name": "bannerLink2",
+            "helpTextResourceId": "bl2HelpText",
+            "labelResourceId": "bl2Label",
+            "required": false
+        },
+        {
+            "id": "startDate2",
+            "type": "stringType",
+            "name": "startDate2",
+            "helpTextResourceId": "sd2HelpText",
+            "labelResourceId": "sd2Label",
+            "defaultValue": "",
+            "required": false
+        },
+        {
+            "id": "endDate2",
+            "type": "stringType",
+            "name": "endDate2",
+            "helpTextResourceId": "ed2HelpText",
+            "labelResourceId": "ed2Label",
+            "defaultValue": "",
+            "required": false
+        },
+        {
+            "id": "bannerText2",
+            "type": "stringType",
+            "name": "bannerText2",
+            "helpTextResourceId": "bt2HelpText",
+            "labelResourceId": "bt2Label",
+            "defaultValue": "",
+            "required": false
+        },
+
+
+
+        {
+            "id": "imageTitle3",
+            "type": "sectionTitleType",
+            "helpTextResourceId": "it3HelpText",
+            "labelResourceId": "it3Label"
+        },
+        {
+            "id": "imageURL3",
+            "type": "mediaType",
+            "name": "imageURL3",
+            "helpTextResourceId": "i3HelpText",
+            "labelResourceId": "i3Label",
+            "required": false
+        },
+        {
+            "id": "mobileImageURL3",
+            "type": "mediaType",
+            "name": "mobileImageURL3",
+            "helpTextResourceId": "mi3HelpText",
+            "labelResourceId": "mi3Label",
+            "required": false
+        },
+        {
+            "id": "bannerLink3",
+            "type": "stringType",
+            "name": "bannerLink3",
+            "helpTextResourceId": "bl3HelpText",
+            "labelResourceId": "bl3Label",
+            "required": false
+        },
+        {
+            "id": "startDate3",
+            "type": "stringType",
+            "name": "startDate3",
+            "helpTextResourceId": "sd3HelpText",
+            "labelResourceId": "sd3Label",
+            "defaultValue": "",
+            "required": false
+        },
+        {
+            "id": "endDate3",
+            "type": "stringType",
+            "name": "endDate3",
+            "helpTextResourceId": "ed3HelpText",
+            "labelResourceId": "ed3Label",
+            "defaultValue": "",
+            "required": false
+        },
+        {
+            "id": "bannerText3",
+            "type": "stringType",
+            "name": "bannerText3",
+            "helpTextResourceId": "bt3HelpText",
+            "labelResourceId": "bt3Label",
+            "defaultValue": "",
+            "required": false
+        },
+
+
+
+        {
+            "id": "imageTitle4",
+            "type": "sectionTitleType",
+            "helpTextResourceId": "it4HelpText",
+            "labelResourceId": "it4Label"
+        },
+        {
+            "id": "imageURL4",
+            "type": "mediaType",
+            "name": "imageURL4",
+            "helpTextResourceId": "i4HelpText",
+            "labelResourceId": "i4Label",
+            "required": false
+        },
+        {
+            "id": "mobileImageURL4",
+            "type": "mediaType",
+            "name": "mobileImageURL4",
+            "helpTextResourceId": "mi4HelpText",
+            "labelResourceId": "mi4Label",
+            "required": false
+        },
+        {
+            "id": "bannerLink4",
+            "type": "stringType",
+            "name": "bannerLink4",
+            "helpTextResourceId": "bl4HelpText",
+            "labelResourceId": "bl4Label",
+            "required": false
+        },
+        {
+            "id": "startDate4",
+            "type": "stringType",
+            "name": "startDate4",
+            "helpTextResourceId": "sd4HelpText",
+            "labelResourceId": "sd4Label",
+            "defaultValue": "",
+            "required": false
+        },
+        {
+            "id": "endDate4",
+            "type": "stringType",
+            "name": "endDate4",
+            "helpTextResourceId": "ed4HelpText",
+            "labelResourceId": "ed4Label",
+            "defaultValue": "",
+            "required": false
+        },
+        {
+            "id": "bannerText4",
+            "type": "stringType",
+            "name": "bannerText4",
+            "helpTextResourceId": "bt4HelpText",
+            "labelResourceId": "bt4Label",
+            "defaultValue": "",
+            "required": false
+        },
+
+
+
+        {
+            "id": "imageTitle5",
+            "type": "sectionTitleType",
+            "helpTextResourceId": "it5HelpText",
+            "labelResourceId": "it5Label"
+        },
+        {
+            "id": "imageURL5",
+            "type": "mediaType",
+            "name": "imageURL5",
+            "helpTextResourceId": "i5HelpText",
+            "labelResourceId": "i5Label",
+            "required": false
+        },
+        {
+            "id": "mobileImageURL5",
+            "type": "mediaType",
+            "name": "mobileImageURL5",
+            "helpTextResourceId": "mi5HelpText",
+            "labelResourceId": "mi5Label",
+            "required": false
+        },
+        {
+            "id": "bannerLink5",
+            "type": "stringType",
+            "name": "bannerLink5",
+            "helpTextResourceId": "bl5HelpText",
+            "labelResourceId": "bl5Label",
+            "required": false
+        },
+        {
+            "id": "startDate5",
+            "type": "stringType",
+            "name": "startDate5",
+            "helpTextResourceId": "sd5HelpText",
+            "labelResourceId": "sd5Label",
+            "defaultValue": "",
+            "required": false
+        },
+        {
+            "id": "endDate5",
+            "type": "stringType",
+            "name": "endDate5",
+            "helpTextResourceId": "ed5HelpText",
+            "labelResourceId": "ed5Label",
+            "defaultValue": "",
+            "required": false
+        },
+        {
+            "id": "bannerText5",
+            "type": "stringType",
+            "name": "bannerText5",
+            "helpTextResourceId": "bt5HelpText",
+            "labelResourceId": "bt5Label",
+            "defaultValue": "",
+            "required": false
+        },
+
+
+
+        {
+            "id": "imageTitle6",
+            "type": "sectionTitleType",
+            "helpTextResourceId": "it6HelpText",
+            "labelResourceId": "it6Label"
+        },
+        {
+            "id": "imageURL6",
+            "type": "mediaType",
+            "name": "imageURL6",
+            "helpTextResourceId": "i6HelpText",
+            "labelResourceId": "i6Label",
+            "required": false
+        },
+        {
+            "id": "mobileImageURL6",
+            "type": "mediaType",
+            "name": "mobileImageURL6",
+            "helpTextResourceId": "mi6HelpText",
+            "labelResourceId": "mi6Label",
+            "required": false
+        },
+        {
+            "id": "bannerLink6",
+            "type": "stringType",
+            "name": "bannerLink6",
+            "helpTextResourceId": "bl6HelpText",
+            "labelResourceId": "bl6Label",
+            "required": false
+        },
+        {
+            "id": "startDate6",
+            "type": "stringType",
+            "name": "startDate6",
+            "helpTextResourceId": "sd6HelpText",
+            "labelResourceId": "sd6Label",
+            "defaultValue": "",
+            "required": false
+        },
+        {
+            "id": "endDate6",
+            "type": "stringType",
+            "name": "endDate6",
+            "helpTextResourceId": "ed6HelpText",
+            "labelResourceId": "ed6Label",
+            "defaultValue": "",
+            "required": false
+        },
+        {
+            "id": "bannerText6",
+            "type": "stringType",
+            "name": "bannerText6",
+            "helpTextResourceId": "bt6HelpText",
+            "labelResourceId": "bt6Label",
+            "defaultValue": "",
+            "required": false
+        }
+    ]
+}

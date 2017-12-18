@@ -1,0 +1,56 @@
+#oeHeroBannerWidgetGokul_v1-wi1200196 {
+    .hero-banner {
+        @color-border: black;
+        @color-arrow: #635F5C;
+        @color-arrow-hover: #FFEC73;
+        @color-banner-text: white;
+    
+        margin-top:60px;
+    
+        .inner-arrows {
+            padding: 0px;
+        }
+    
+        .carousel-indicator {
+            background-color: @color-arrow;
+            width: 30px;
+            border: none;
+        }
+    
+        .item {
+            img.banner-slide {
+                width: 100%;
+                max-height: 200px;
+            }
+            img.mobile-slide {
+                width: 100%;
+                max-height: 80px;
+            }
+    
+            p.banner-text {
+                padding: 5px;
+                margin: auto;
+                display: inline-block;
+                max-width: 50%;
+                border: 5px solid @color-border;
+                word-wrap: break-word;
+                font-size: 50px;
+                font-family: Courier New, monospace;
+                color: @color-banner-text;
+            }
+        }
+    
+        a:link {
+            color: @color-arrow;
+        }
+        a:visited {
+            color: @color-arrow-hover;
+        }
+        a:hover {
+            color: @color-arrow-hover;
+        }
+        a:active {
+            color: @color-arrow;
+        }
+    }
+}

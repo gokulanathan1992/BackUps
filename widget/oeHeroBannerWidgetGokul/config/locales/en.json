@@ -1,0 +1,150 @@
+{
+    "resources": {
+        "tsiLabel": "Image Switching Time",
+        "tsiHelpText": "Time for the banner transistion. Default: 4 seconds",
+
+        "blcLabel": "Carousel Loop",
+        "blcHelpText": "Loop the Carousel infinitly. Default: false",
+
+        "bacLabel": "Carousel Autoplay",
+        "bacHelpText": "Automatically play the carousel when the page loads. Default: true",
+
+
+
+        "it1Label": "Image 1",
+        "it1HelpText": "Image 1 Settings",
+
+        "i1Label": "Image 1 URL",
+        "i1HelpText": "Upload 1st Image",
+
+        "mi1Label": "Mobile Image 1 URL",
+        "mi1HelpText": "Upload mobile version of the 1st Image",
+
+        "bl1Label": "Image 1 Link",
+        "bl1HelpText": "Provide a link to redirect the page",
+
+        "sd1Label": "Start Date",
+        "sd1HelpText": "Provide the image display starting date",
+
+        "ed1Label": "End Date",
+        "ed1HelpText": "Provide the image display ending date",
+
+        "bt1Label": "Image 1 Text",
+        "bt1HelpText": "Display a text on the 1st image",
+
+
+
+        "it2Label": "Image 2",
+        "it2HelpText": "Image 2 Settings",
+
+        "i2Label": "Image 2 URL",
+        "i2HelpText": "Upload 2nd Image",
+
+        "mi2Label": "Mobile Image 1 URL",
+        "mi2HelpText": "Upload mobile version of the 1st Image",
+
+        "bl2Label": "Image 2 Link",
+        "bl2HelpText": "Provide a link to redirect the page",
+
+        "sd2Label": "Start Date",
+        "sd2HelpText": "Provide the image display starting date",
+
+        "ed2Label": "End Date",
+        "ed2HelpText": "Provide the image display ending date",
+
+        "bt2Label": "Image 2 Text",
+        "bt2HelpText": "Display a text on the 2nd image",
+
+
+
+        "it3Label": "Image 3",
+        "it3HelpText": "Image 3 Settings",
+
+        "i3Label": "Image 3 URL",
+        "i3HelpText": "Upload 3rd Image",
+
+        "mi3Label": "Mobile Image 1 URL",
+        "mi3HelpText": "Upload mobile version of the 1st Image",
+
+        "bl3Label": "Image 3 Link",
+        "bl3HelpText": "Provide a link to redirect the page",
+
+        "sd3Label": "Start Date",
+        "sd3HelpText": "Provide the image display starting date",
+
+        "ed3Label": "End Date",
+        "ed3HelpText": "Provide the image display ending date",
+
+        "bt3Label": "Image 3 Text",
+        "bt3HelpText": "Display a text on the 3rd image",
+
+
+
+        "it4Label": "Image 4",
+        "it4HelpText": "Image 4 Settings",
+
+        "i4Label": "Image 4 URL",
+        "i4HelpText": "Upload 4th Image",
+
+        "mi4Label": "Mobile Image 1 URL",
+        "mi4HelpText": "Upload mobile version of the 1st Image",
+
+        "bl4Label": "Image 4 Link",
+        "bl4HelpText": "Provide a link to redirect the page",
+
+        "sd4Label": "Start Date",
+        "sd4HelpText": "Provide the image display starting date",
+
+        "ed4Label": "End Date",
+        "ed4HelpText": "Provide the image display ending date",
+
+        "bt4Label": "Image 4 Text",
+        "bt4HelpText": "Display a text on the 4th image",
+
+
+
+        "it5Label": "Image 5",
+        "it5HelpText": "Image 5 Settings",
+
+        "i5Label": "Image 5 URL",
+        "i5HelpText": "Upload 5th Image",
+
+        "mi5Label": "Mobile Image 1 URL",
+        "mi5HelpText": "Upload mobile version of the 1st Image",
+
+        "bl5Label": "Image 5 Link",
+        "bl5HelpText": "Provide a link to redirect the page",
+
+        "sd5Label": "Start Date",
+        "sd5HelpText": "Provide the image display starting date",
+
+        "ed5Label": "End Date",
+        "ed5HelpText": "Provide the image display ending date",
+
+        "bt5Label": "Image 5 Text",
+        "bt5HelpText": "Display a text on the 5th image",
+
+
+
+        "it6Label": "Image 6",
+        "it6HelpText": "Image 6 Settings",
+
+        "i6Label": "Image 6 URL",
+        "i6HelpText": "Upload 6th Image",
+
+        "mi6Label": "Mobile Image 1 URL",
+        "mi6HelpText": "Upload mobile version of the 1st Image",
+
+        "bl6Label": "Image 6 Link",
+        "bl6HelpText": "Provide a link to redirect the page",
+
+        "sd6Label": "Start Date",
+        "sd6HelpText": "Provide the image display starting date",
+
+        "ed6Label": "End Date",
+        "ed6HelpText": "Provide the image display ending date",
+
+        "bt6Label": "Image 6 Text",
+        "bt6HelpText": "Display a text on the 6th image"
+    }
+}

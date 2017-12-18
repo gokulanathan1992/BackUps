@@ -1,0 +1,33 @@
+<div class="container">
+    <div class="carousel slide" id="heroBanner">
+        <ol class="carousel-indicators" data-bind="foreach: bannerData">
+            <li class="carousel-indicator" data-target="#heroBanner" data-bind="attr: {'data-slide-to':$index}, css: {active:!$index()}"></li>
+        </ol>
+
+        <div class="carousel-inner" data-bind="foreach: bannerData">
+            <div class="item" data-bind="css: {active: !$index()}">
+                <a data-bind="attr: {href: bannerLink}">
+                    <img class="img-responsive center-block banner-slide" data-bind="attr: {src: imageUrl}">
+                    <img class="img-responsive center-block mobile-slide" data-bind="attr: {src: mobileImageUrl}">
+                </a>
+
+                <!-- ko if: bannerText -->
+                    <div class="carousel-caption">
+                        <p class="banner-text" data-bind="text: bannerText"></p>
+                    </div>
+                <!-- /ko -->
+            </div>
+        </div>
+
+        <!-- ko if: bannerData().length > 1 -->
+            <a class="left carousel-control" href="#heroBanner" role="button" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#heroBanner" role="button" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        <!-- /ko -->
+    </div>
+</div>

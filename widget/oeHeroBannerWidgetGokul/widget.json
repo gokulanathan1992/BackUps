@@ -1,0 +1,92 @@
+{
+    "name": "oeHeroBannerWidgetGokul",
+    "global": false,
+    "globalEnabled": true,
+    "availableToAllPages": true,
+    "javascript": "heroBannerGokul",
+    "jsEditable": true,
+    "imports": [],
+    "config": {
+        "timeSwitchImage": "4",
+        "boolLoopCarousel": false,
+        "boolAutoplayCarousel": true,
+
+        "imageURL1": {
+            "mediaName": "",
+            "src": ""
+        },
+        "mobileImageURL1": {
+            "mediaName": "",
+            "src": ""
+        },
+        "bannerLink1": "",
+        "startDate1": "",
+        "endDate1": "",
+        "bannerText1": "",
+
+        "imageURL2": {
+            "mediaName": "",
+            "src": ""
+        },
+        "mobileImageURL2": {
+            "mediaName": "",
+            "src": ""
+        },
+        "bannerLink2": "",
+        "startDate2": "",
+        "endDate2": "",
+        "bannerText2": "",
+
+        "imageURL3": {
+            "mediaName": "",
+            "src": ""
+        },
+        "mobileImageURL3": {
+            "mediaName": "",
+            "src": ""
+        },
+        "bannerLink3": "",
+        "startDate3": "",
+        "endDate3": "",
+        "bannerText3": "",
+
+        "imageURL4": {
+            "mediaName": "",
+            "src": ""
+        },
+        "mobileImageURL4": {
+            "mediaName": "",
+            "src": ""
+        },
+        "bannerLink4": "",
+        "startDate4": "",
+        "endDate4": "",
+        "bannerText4": "",
+
+        "imageURL5": {
+            "mediaName": "",
+            "src": ""
+        },
+        "mobileImageURL5": {
+            "mediaName": "",
+            "src": ""
+        },
+        "bannerLink5": "",
+        "startDate5": "",
+        "endDate5": "",
+        "bannerText5": "",
+
+        "imageURL6": {
+            "mediaName": "",
+            "src": ""
+        },
+        "mobileImageURL6": {
+            "mediaName": "",
+            "src": ""
+        },
+        "bannerLink6": "",
+        "startDate6": "",
+        "endDate6": "",
+        "bannerText6": ""
+    }
+}
